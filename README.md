@@ -1,15 +1,15 @@
-# Scrap_MNAs
-## Crearemos una base de datos sobre Medidas no arancelarias de la pagina World Trade Organization.
-## 1. Nuestra primera necesidad es raspar toda la información de medidas no arancelarias entre Perú y una lista de países en específico.
-## 2. La información tiene que ser Perú con cada país de la lista año por año dese 1988 hasta 2020.
-## 3. La información tiene que ser cada país de la lista con Perú año por año dese 1988 hasta 2020.
-## 4. Lista de países:
-###     'Alemania', 'Arabia Saudita, Reino de la', 'Argentina', 'Australia', 'Austria', 'Bolivia', 'Brasil', 'Bulgaria',
-###     'Bélgica', 'Canadá', 'Chile', 'China', 'Chipre', 'Colombia', 'Corea, República de', 'Costa Rica',
-###     'Cuba', 'Dinamarca', 'Ecuador', 'El Salvador', 'Eslovenia', 'España', 'Estados Unidos de América', 'Estonia',
-###     'Federación de Rusia', 'Finlandia', 'Francia', 'Grecia', 'Guatemala', 'Honduras', 'Hong Kong, China',
-###     'Hungría', 'India', 'Indonesia', 'Irlanda', 'Islandia', 'Italia', 'Japón', 'Letonia',
-###     'Malasia', 'Malta', 'México', 'Nicaragua', 'Noruega', 'Panamá', 'Paraguay', 'Países Bajos', 'Perú',
-###     'Polonia', 'Portugal', 'Reino Unido', 'República Checa', 'República Dominicana', 'República Eslovaca',
-###     'Rumania', 'Suecia', 'Suiza', 'Tailandia', 'Trinidad y Tabago', 'Turquía', 'Uruguay',
-###     'Venezuela, República Bolivariana de', 'Viet Nam'.
+### Scrap_MNAs
+ We will create a database on Non-tariff measures from the World Trade Organization page.
+ 1. Our first need is to scrape all the information on non-tariff measures between Peru and a list of specific countries.
+ 2. The information has to be Peru with each country on the list year by year from 1988 to 2020.
+ 3. The information has to be each country on the list with Peru year by year from 1988 to 2020.
+ 4. List of countries:
+     'Germany', 'Saudi Arabia, Kingdom of', 'Argentina', 'Australia', 'Austria', 'Bolivia', 'Brazil', 'Bulgaria',
+     'Belgium', 'Canada', 'Chile', 'China', 'Cyprus', 'Colombia', 'Korea, Republic of', 'Costa Rica',
+     'Cuba', 'Denmark', 'Ecuador', 'El Salvador', 'Slovenia', 'Spain', 'United States of America', 'Estonia',
+     'Russian Federation', 'Finland', 'France', 'Greece', 'Guatemala', 'Honduras', 'Hong Kong, China',
+     'Hungary', 'India', 'Indonesia', 'Ireland', 'Iceland', 'Italy', 'Japan', 'Latvia',
+     'Malaysia', 'Malta', 'Mexico', 'Nicaragua', 'Norway', 'Panama', 'Paraguay', 'Netherlands', 'Peru',
+     'Poland', 'Portugal', 'United Kingdom', 'Czech Republic', 'Dominican Republic', 'Slovak Republic',
+     'Romania', 'Sweden', 'Switzerland', 'Thailand', 'Trinidad and Tobago', 'Turkey', 'Uruguay',
+     'Venezuela, Bolivarian Republic of', 'Viet Nam'.
