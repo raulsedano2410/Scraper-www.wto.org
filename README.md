@@ -12,7 +12,7 @@ Scraper_wto.org
 
 * dynamic interface
 
-<img src="images/captura.png" width="800">
+<img src="images/Captura.png" width="600">
 
 
 >Imput:
