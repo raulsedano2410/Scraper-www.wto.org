@@ -3,14 +3,12 @@ Scraper for **[www.wto.org](https://www.wto.org)**
 ===
 
 
-*The codes are published on [my GitHub](https://github.com/raulsedano2410) you can find [**this scraper**](https://github.com/raulsedano2410/Scraper-www.wto.org) and [many others](https://github.com/raulsedano2410?tab=repositories)*
+The codes are published on [my GitHub](https://github.com/raulsedano2410) you can find [**this scraper**](https://github.com/raulsedano2410/Scraper-www.wto.org) and [many others](https://github.com/raulsedano2410?tab=repositories)
 
 
-### Sub page to work: **[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
+* Sub page to work: **[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
 
-
-
-*This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
+This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
 
 ### About: **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**  
 
@@ -127,11 +125,6 @@ Scraper for **[www.wto.org](https://www.wto.org)**
      import win32com.client
 ```  
 
->### Output:  
-
-In the selection and cleaning of Data they asked me to separate SA Codes of 6 digits or more with certain characteristics, I will leave a file (in Spanish) as a production sample
-
-<p><a href="../files/Peru-World.xlsx" download> Click to Download </a></p>
 
 
 > ### Important:
