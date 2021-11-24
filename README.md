@@ -3,12 +3,12 @@ Scraper for **[www.wto.org](https://www.wto.org)**
 ===
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The codes are published on [my GitHub](https://github.com/raulsedano2410) you can find [**this scraper**](https://github.com/raulsedano2410/Scraper-www.wto.org) and [many others](https://github.com/raulsedano2410?tab=repositories)*
+*The codes are published on [my GitHub](https://github.com/raulsedano2410) you can find [**this scraper**](https://github.com/raulsedano2410/Scraper-www.wto.org) and [many others](https://github.com/raulsedano2410?tab=repositories)*
 
 
- >### Sub page to work:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
+ >### Sub page to work:**[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
+*This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
 
 >### About:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**  
 
