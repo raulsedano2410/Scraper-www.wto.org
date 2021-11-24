@@ -7,13 +7,13 @@ Scraper for **[www.wto.org](https://www.wto.org)**
 
 
 ### Sub page to work: **[i-tip.wto.org/goods/Forms/TableView.aspx](https://i-tip.wto.org/goods/Forms/TableView.aspx)**
----
+
 
 
 *This pivot table was complicated at the beginning, but it was managed to understand it perfectly.*
 
-###About: **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**  
----
+### About: **[Non-tariff measures](https://i-tip.wto.org/goods/Forms/TableView.aspx)**  
+
 
 
 *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What are "non-tariff measures" (NTMs)?  
@@ -24,11 +24,11 @@ Scraper for **[www.wto.org](https://www.wto.org)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *[Complete documentation here](https://www.wto.org/english/res_e/reser_e/ersd201201_e.pdf)*
 
->### Objective
+### Objective
 
 * Create a database of non-tariff measures (NTMs), based on some important criteria for the development of your study.
 
->### Imputs
+### Imputs
 
 1. Measure/Notification
      
@@ -99,7 +99,7 @@ Scraper for **[www.wto.org](https://www.wto.org)**
 5. Keywords
      * All/Any
 
->### Tools  
+### Tools  
 
 * Jupyter Notebook
 * Python 3.8
